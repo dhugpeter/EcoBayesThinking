@@ -2,8 +2,11 @@
 # General information
 
 **When:** 
-**Where:** 
-**Requirements:**
+
+**Where:** Zurich
+
+**Requirements:** Basic knowledge of statistics. 
+
 **Instructors:** Leila Schuh & [Gilles Kratzer](https://gilleskratzer.netlify.com/)
 
 # Learning outcomes
