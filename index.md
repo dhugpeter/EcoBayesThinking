@@ -1,4 +1,4 @@
-<img src="bayesecology.jpg" width="100" height="100">
+<img src="bayesecology.jpg" width="400" height="400">
 
 # General information
 
