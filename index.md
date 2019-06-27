@@ -1,5 +1,5 @@
 
-![](bayesecology.jpg)
+![](bayesecology.jpg =350x)
 
 # General information
 
