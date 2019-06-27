@@ -2,7 +2,7 @@
 <img src="bayesecology.jpg" width="450" height="450">
 </p>
 
-In early spring 2020 a group of young scientists will offer a workshop entitled „Bayesian Thinking & Ecology“ at the University of Zurich. The goal of the workshop is to bring together scientists from ecology and statistics in an interdisciplinary educational event with high level expert contributions and a focus on scientific output. 
+In early spring 2020 a group of young scientists will offer a workshop entitled **Bayesian Thinking & Ecology** at the University of Zurich. The goal of the workshop is to bring together scientists from ecology and statistics in an interdisciplinary educational event with high level expert contributions and a focus on scientific output. 
 
 We will explore the philosophy of Bayesian statistics and how it can be employed to deliver new insights to ecological questions. Our goal is not to provide an overview of all possible applications, but rather to train participants in Bayesian thinking and enable scientists to successfully apply Bayesian methods in new and creative ways. Furthermore, we aim to offer an inspiring selection of applications in the domain of ecological research and we invite experts to enrich this workshop with their valuable contributions. In this workshop, participants will learn what it means to think Bayesian, be exposed to exciting science and work together in teams with the goal to foster scientific collaboration. We therefore encourage experts to engage with us in the preparation phase to streamline this workshop as a high quality educational event and the basis for scientific publications. 
 
