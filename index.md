@@ -1,8 +1,4 @@
-
-
-<img src="bayesecology.jpg"
-     alt=" "
-     style="float: left; margin-right: 10px;" />
+<img src="bayesecology.jpg" width="100" height="100">
 
 # General information
 
