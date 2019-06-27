@@ -1,22 +1,20 @@
 
+![](bayesecology.pdf)
+
 # General information
 
 **When:** Early spring 2020
 
 **Where:** Zurich
 
-**Requirements:** Basic knowledge of statistics and R programming languages. 
+**Requirements:** Basic knowledge of statistics and R programming language. 
 
-**Organizers:** Leila Schuh & [Gilles Kratzer](https://gilleskratzer.netlify.com/) & Frank Pennekamp & Oliver Reader & Dorothea Hug Peter & Maarten Eppinga
+**Organizers:** [Leila Schuh](https://www.math.uzh.ch/index.php?id=people&L=0&id=people&semId=37&key1=14654) & [Gilles Kratzer](https://gilleskratzer.netlify.com/) & Frank Pennekamp & Oliver Reader & Dorothea Hug Peter & Maarten Eppinga
+
+**Contact point:** [workshop organizers](mailto:leila.schuh@math.uzh.ch)
 
 **Instructors:** TBA
 
-# Expected Learning outcomes
-- enable participants to apply Bayesian methods in new and creative ways
-- forster collaborations between 
-
-# Schedule
-
-| Time         | Topic                          | Material|
-|--------------|--------------------------------|---------|
-| 09:00 - 09:10| Welcome & info                 | |
+# Expected learning outcomes
+- enable participants to apply Bayesian methods in new and creative ways in Ecology
+- foster collaboration
