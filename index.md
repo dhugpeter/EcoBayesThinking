@@ -1,15 +1,19 @@
 
 # General information
 
-**When:** 
+**When:** Early spring 2020
 
 **Where:** Zurich
 
-**Requirements:** Basic knowledge of statistics. 
+**Requirements:** Basic knowledge of statistics and R programming languages. 
 
-**Instructors:** Leila Schuh & [Gilles Kratzer](https://gilleskratzer.netlify.com/)
+**Organizers:** Leila Schuh & [Gilles Kratzer](https://gilleskratzer.netlify.com/) & Frank Pennekamp & Oliver Reader & Dorothea Hug Peter & Maarten Eppinga
 
-# Learning outcomes
+**Instructors:** TBA
+
+# Expected Learning outcomes
+- enable participants to apply Bayesian methods in new and creative ways
+- forster collaborations between 
 
 # Schedule
 
