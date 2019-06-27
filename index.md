@@ -1,5 +1,8 @@
 
-![](bayesecology.jpg = 350x)
+
+<img src="bayesecology.jpg"
+     alt=" "
+     style="float: left; margin-right: 10px;" />
 
 # General information
 
