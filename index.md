@@ -1,4 +1,6 @@
-<img src="bayesecology.jpg" width="600" height="600">
+<p align="center">
+<img src="bayesecology.jpg" width="450" height="450">
+</p>
 
 In early spring 2020 a group of young scientists will offer a workshop entitled „Bayesian Thinking & Ecology“ at the University of Zurich. The goal of the workshop is to bring together scientists from ecology and statistics in an interdisciplinary educational event with high level expert contributions and a focus on scientific output. 
 
