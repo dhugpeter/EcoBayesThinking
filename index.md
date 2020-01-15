@@ -5,7 +5,7 @@
 <p> <b> Where:</b> University of Zurich, Irchel campus</p>
 <p> <b> Who:</b>	PhD students and postdocs interested in ecology and statistics</p>
 
-<div class="tg-wrap"><table border="0">
+<table border="0">
   <tr>
     <td><b>Instructors:</b>	</td>
     <td>Florian Hartig (University of Regensburg, Germany)</td>
@@ -22,8 +22,7 @@
     <td></td>
     <td></td>
   </tr>
-</table></div>
-
+</table>
 **Format:** The workshop is centered around two activities: i) Expert lectures, followed by hands-on sessions; ii) Collaborative project, in which groups of 3-5 participants perform a novel (Bayesian) analysis, under supervision of an instructor providing a dataset.
 
 **Description:** The goal of the workshop is to bring together scientists from ecology and statistics in an interdisciplinary educational event with high-level expert contributions and a focus on learning-by-doing that results in the creation of scientific output. 
