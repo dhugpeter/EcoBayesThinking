@@ -1,6 +1,6 @@
 <p> <b> When:</b> March 31 - April 02, 2020</p>
 <p> <b> Where:</b> University of Zurich, Irchel campus</p>
-<p> <b> Who:</b>	PhD students and postdocs interested in ecology and statistics</p>
+<p> <b> Who:</b> PhD students and postdocs interested in ecology and statistics. The participants should have basic knowledge of R and statistics and a keen interest in Bayesian thinking. </p>
 
 <table border="0">
   <tr>
@@ -32,7 +32,7 @@ In this workshop, we promote transparent and reproducible science and the use of
 
 **Funding Acknowledgement:** Funding by the UZH Graduate Campus via a GRC Grant is gratefully acknowledged
 
-<a name="application"> <b> How to apply </b> </a> 
+<a name="application"> <b> How to apply: </b> </a> 
 Please submit your application with the form below. We will get in touch to confirm your application.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKpPMnSTE8eUkQv9MhYIYnAKCPdPPksjUymDfkOeiwYlweSg/viewform?embedded=true" width="640" height="1286" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
