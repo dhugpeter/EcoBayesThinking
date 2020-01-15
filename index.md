@@ -1,3 +1,10 @@
+- Are you an ecologist or are you interested in ecology?
+- Are you interested in alternative approaches to analyzing your data?
+- Have you heard of Bayesian thinking and statistics, and wonder what that could mean for your research project?
+- Are you familiar with R?
+
+**Come to our workshop on Bayesian thinking and ecology!**
+
 <p> <b> When:</b> March 31 - April 02, 2020</p>
 <p> <b> Where:</b> University of Zurich, Irchel campus</p>
 <p> <b> Who:</b>	PhD students and postdocs interested in ecology and statistics</p>
