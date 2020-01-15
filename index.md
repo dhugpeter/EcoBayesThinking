@@ -27,12 +27,10 @@ In this workshop, we promote transparent and reproducible science and the use of
 
 **Organizing committee:** Leila Schuh, Dorothea Hug Peter, Frank Pennekamp, Anubhav Gupta, Maarten Eppinga and Oliver Reader 
 
-**Questions:** 
-
-**Funding Acknowledgement:** Funding by the UZH Graduate Campus via a GRC Grant is gratefully acknowledged
-
+**Questions and further Information:** Contact us via <a href="https://twitter.com/EcolBayesZH"> Twitter DM </a> or by <a href="mailto:martin.reader@geo.uzh.ch"> E-mail </a> 
 <a href="https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/modules/list/2019/004/50646024/details/SM/50986941"> Official announcement in the Vorlesungsverzeichnis</a>
 
+**Funding Acknowledgement:** Funding by the UZH Graduate Campus via a GRC Grant is gratefully acknowledged
 
 **How to apply:** 
 Please submit your application with the form below. We will get in touch to confirm your application.
