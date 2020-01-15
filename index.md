@@ -5,7 +5,7 @@
 <p> <b> Where:</b> University of Zurich, Irchel campus</p>
 <p> <b> Who:</b>	PhD students and postdocs interested in ecology and statistics</p>
 
-<table border="0">
+<table border="0" style="width:825px;border:0px;" >
   <tr>
     <td><b>Instructors:</b>	</td>
     <td>Florian Hartig (University of Regensburg, Germany)</td>
