@@ -1,11 +1,11 @@
 
 <p><img style="padding: 0 15px; float: right;" src="bayesecology.jpg" width="150" height="150"/></p>
 <p style="margin-top: 20px;"> </p>
-<p> <b>When:</b> March 31 - April 02, 2020</p>
-<p> <b>Where:</b> University of Zurich, Irchel campus</p>
-<p> <b>Who:</b>	PhD students and postdocs interested in ecology and statistics</p>
+<p> <b> When:</b> March 31 - April 02, 2020</p>
+<p> <b> Where:</b> University of Zurich, Irchel campus</p>
+<p> <b> Who:</b>	PhD students and postdocs interested in ecology and statistics</p>
 
-<div class="tg-wrap"><table>
+<div class="tg-wrap"><table border="0">
   <tr>
     <td><b>Instructors:</b>	</td>
     <td>Florian Hartig (University of Regensburg, Germany)</td>
