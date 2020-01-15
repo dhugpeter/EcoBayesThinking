@@ -23,6 +23,7 @@
     <td></td>
   </tr>
 </table>
+
 **Format:** The workshop is centered around two activities: i) Expert lectures, followed by hands-on sessions; ii) Collaborative project, in which groups of 3-5 participants perform a novel (Bayesian) analysis, under supervision of an instructor providing a dataset.
 
 **Description:** The goal of the workshop is to bring together scientists from ecology and statistics in an interdisciplinary educational event with high-level expert contributions and a focus on learning-by-doing that results in the creation of scientific output. 
