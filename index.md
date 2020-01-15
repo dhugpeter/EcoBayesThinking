@@ -1,13 +1,28 @@
 
 <p><img style="padding: 0 15px; float: left;" src="bayesecology.jpg" width="150" height="150"/></p>
 <p style="margin-top: 20px;"> </p>
-<p>**When:** March 31 - April 02, 2020</p>
-<p>**Where:** University of Zurich, Irchel campus</p>
-<p>**Who:**	PhD students and postdocs interested in ecology and statistics</p>
-<p>**Instructors:**	Florian Hartig (University of Regensburg, Germany)</p>
-<p>Colin Averill (ETH, Zurich, Switzerland)</p>
-<p>Stefanie Muff (Norwegian University of Science and Technology, Norway)</p>
+<p> <b>When:</b> March 31 - April 02, 2020</p>
+<p> <b>Where:</b> University of Zurich, Irchel campus</p>
+<p> <b>Who:</b>	PhD students and postdocs interested in ecology and statistics</p>
 
+<div class="tg-wrap"><table>
+  <tr>
+    <td><b>Instructors:</b>	</td>
+    <td>Florian Hartig (University of Regensburg, Germany)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Colin Averill (ETH, Zurich, Switzerland)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Stefanie Muff (Norwegian University of Science and Technology, Norway)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table></div>
 
 Format: The workshop is centered around two activities: i) Expert lectures, followed by hands-on sessions; ii) Collaborative project, in which groups of 3-5 participants perform a novel (Bayesian) analysis, under supervision of an instructor providing a dataset.
 
