@@ -1,32 +1,28 @@
-<p align="center">
-<img src="bayesecology.jpg" width="450" height="450">
-</p>
 
-In early spring 2020 a group of young scientists will offer a workshop entitled **Bayesian Thinking & Ecology** at the University of Zurich. The goal of the workshop is to bring together scientists from ecology and statistics in an interdisciplinary educational event with high level expert contributions and a focus on scientific output. 
+<p><img style="padding: 0 15px; float: left;" src="bayesecology.jpg" width="150" height="150"/></p>
+<p style="margin-top: 20px;"> </p>
+<p>**When:** March 31 - April 02, 2020</p>
+<p>**Where:** University of Zurich, Irchel campus</p>
+<p>**Who:**	PhD students and postdocs interested in ecology and statistics</p>
+<p>**Instructors:**	Florian Hartig (University of Regensburg, Germany)</p>
+<p>Colin Averill (ETH, Zurich, Switzerland)</p>
+<p>Stefanie Muff (Norwegian University of Science and Technology, Norway)</p>
 
-We will explore the philosophy of Bayesian statistics and how it can be employed to deliver new insights to ecological questions. Our goal is not to provide an overview of all possible applications, but rather to train participants in Bayesian thinking and enable scientists to successfully apply Bayesian methods in new and creative ways. Furthermore, we aim to offer an inspiring selection of applications in the domain of ecological research and we invite experts to enrich this workshop with their valuable contributions. In this workshop, participants will learn what it means to think Bayesian, be exposed to exciting science and work together in teams with the goal to foster scientific collaboration. We therefore encourage experts to engage with us in the preparation phase to streamline this workshop as a high quality educational event and the basis for scientific publications. 
 
-We promote transparent and reproducible science and the use of open source software. Course material will be provided on Git and the statistical software R will be most prominent throughout the workshop.
+Format: The workshop is centered around two activities: i) Expert lectures, followed by hands-on sessions; ii) Collaborative project, in which groups of 3-5 participants perform a novel (Bayesian) analysis, under supervision of an instructor providing a dataset.
 
-The three to four day workshop will target PhD students, but will be open for other level participants in agreement with the PhD program coordinator. However, the maximum number of participants will be kept to a size that ensures a comfortable working atmosphere. 
+Description: The goal of the workshop is to bring together scientists from ecology and statistics in an interdisciplinary educational event with high-level expert contributions and a focus on learning-by-doing that results in the creation of scientific output. 
+The workshop combines two timely topics. The need for ecological research is pressing in the face of climate change, biodiversity loss and other symptoms of the global ecological crisis we are experiencing. Thorough decision-making requires thorough research, enabled by sound, but also novel methods, allowing scientists to extract relevant information from a growing amount of data. Bayesian statistics have received increasing attention, offering innovative applications and alternative developments to more traditional, frequentist approaches.
+We will explore the philosophy of Bayesian statistics and how it can be employed to gain new insights into ecological questions. Rather than providing an overview of all possible applications, we aim to let participants experience what it means to think Bayesian and how to successfully apply Bayesian methods in new and creative ways. Experts in the field will illustrate theory and concepts with selected applications. The aim of the workshop is to initiate collaborative projects among participants and instructors leading to scientific output. 
 
-We, the organizers, are an interdisciplinary group of PhDs and Postdocs from the University of Zurich. Initiated by Leila Schuh and Gilles Kratzer from the applied statistics group, to workshop is jointly organized, also by Frank Pennekamp from the Department of Evolutionary Biology and Environmental Studies, Oliver Reader and Maarten Eppinga from Earth System Science and Dorothea Hug Peter from applied statistics.
+In this workshop, we promote transparent and reproducible science and the use of appropriate software. Course material will be provided on Git, the statistical software R will be most prominent throughout the workshop. 
 
-# General information
+Organizing committee: Leila Schuh, Dorothea Hug Peter, Frank Pennekamp, Anubhav Gupta, Maarten Eppinga and Oliver Reader 
 
-**When:** Early spring 2020
+Questions: 
 
-**Where:** Zurich
+**How to apply:** 
+Please submit your application with the form below. We will get in touch to confirm your application.
 
-**Requirements:** Basic knowledge of statistics and R programming language. Willingness to work with stae of the art software development tools (Markdown, git, )
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKpPMnSTE8eUkQv9MhYIYnAKCPdPPksjUymDfkOeiwYlweSg/viewform?embedded=true" width="640" height="1286" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-**Organizers:** [Leila Schuh](https://www.math.uzh.ch/index.php?id=people&L=0&id=people&semId=37&key1=14654) & [Gilles Kratzer](https://gilleskratzer.netlify.com/) & Frank Pennekamp & Oliver Reader & Dorothea Hug Peter & Maarten Eppinga
-
-**Contact:** [workshop organizer](mailto:leila.schuh@math.uzh.ch)
-
-**Instructors:** TBA
-
-# Expected learning outcomes
-
-- enable participants to apply Bayesian methods in new and creative ways in Ecology
-- foster collaboration
