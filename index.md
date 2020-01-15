@@ -36,7 +36,7 @@ In this workshop, we promote transparent and reproducible science and the use of
 
 **Questions:** 
 
-<a href="https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/modules/list/2019/004/50646024/details/SM/50986941">link Official announcement in the Vorlesungsverzeichnis</a>
+<a href="https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/modules/list/2019/004/50646024/details/SM/50986941"> Official announcement in the Vorlesungsverzeichnis</a>
 
 
 **How to apply:** 
