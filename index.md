@@ -1,6 +1,3 @@
-
-<p><img style="padding: 0 15px; float: right;" src="bayesecology.jpg" width="150" height="150"/></p>
-<p style="margin-top: 20px;"> </p>
 <p> <b> When:</b> March 31 - April 02, 2020</p>
 <p> <b> Where:</b> University of Zurich, Irchel campus</p>
 <p> <b> Who:</b>	PhD students and postdocs interested in ecology and statistics</p>
@@ -17,10 +14,6 @@
   <tr>
     <td></td>
     <td>Stefanie Muff (Norwegian University of Science and Technology, Norway)</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
