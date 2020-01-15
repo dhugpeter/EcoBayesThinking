@@ -5,7 +5,7 @@
 <p> <b> Where:</b> University of Zurich, Irchel campus</p>
 <p> <b> Who:</b>	PhD students and postdocs interested in ecology and statistics</p>
 
-<table border="0" style="border:0px;" ruler = "none" >
+<table>
   <tr>
     <td><b>Instructors:</b>	</td>
     <td>Florian Hartig (University of Regensburg, Germany)</td>
@@ -36,8 +36,8 @@ In this workshop, we promote transparent and reproducible science and the use of
 
 **Questions:** 
 
-<Official announcement>https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/modules/list/2019/004/50646024/details/SM/50986941
-</>
+<a href="https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/modules/list/2019/004/50646024/details/SM/50986941">link Official announcement in the Vorlesungsverzeichnis</a>
+
 
 **How to apply:** 
 Please submit your application with the form below. We will get in touch to confirm your application.
