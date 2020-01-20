@@ -19,6 +19,8 @@
 
 **Format:** The workshop is centered around two activities: i) Expert lectures, followed by hands-on sessions; ii) Collaborative project, in which groups of 3-5 participants perform a novel (Bayesian) analysis, under supervision of an instructor providing a dataset.
 
+<a href="schedule.html"><b>Tentative schedule</b></a>
+
 **Description:** The goal of the workshop is to bring together scientists from ecology and statistics in an interdisciplinary educational event with high-level expert contributions and a focus on learning-by-doing that results in the creation of scientific output. 
 The workshop combines two timely topics. The need for ecological research is pressing in the face of climate change, biodiversity loss and other symptoms of the global ecological crisis we are experiencing. Thorough decision-making requires thorough research, enabled by sound, but also novel methods, allowing scientists to extract relevant information from a growing amount of data. Bayesian statistics have received increasing attention, offering innovative applications and alternative developments to more traditional, frequentist approaches.
 We will explore the philosophy of Bayesian statistics and how it can be employed to gain new insights into ecological questions. Rather than providing an overview of all possible applications, we aim to let participants experience what it means to think Bayesian and how to successfully apply Bayesian methods in new and creative ways. Experts in the field will illustrate theory and concepts with selected applications. The aim of the workshop is to initiate collaborative projects among participants and instructors leading to scientific output. 
