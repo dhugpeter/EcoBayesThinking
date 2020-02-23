@@ -35,6 +35,8 @@ In this workshop, we promote transparent and reproducible science and the use of
 
 **Funding Acknowledgement:** Funding by the UZH Graduate Campus via a GRC Grant is gratefully acknowledged
 
+**Note: Application is closed due to large number of applications in the course.**
+
 <a name="application"> <b> How to apply: </b> </a> 
 The applicant needs to submit the application using the form below and also send an email to phdecology(at)ieu.uzh.ch. We will get in touch to confirm your application. PhD students from the University of Zurich will be given priority.
 
