@@ -1,24 +1,19 @@
-<p> <b> Postponed - due to the Corona Crisis we have to postpone the workshop. The new date will be communicated soon!</p></b>
-<p> <b> When:</b> March 31 - April 02, 2020</p>
+<p> <b> When:</b> 12 to 14 April 02, 2021</p>
 <p> <b> Where:</b> University of Zurich, Irchel campus</p>
 <p> <b> Who:</b> PhD students and postdocs interested in ecology and statistics. The participants should have basic knowledge of R and statistics and a keen interest in Bayesian thinking. </p>
 
 <table border="0">
   <tr>
     <td><b>Instructors:</b>	</td>
+    <td>Marc Kéry (Swiss Ornithological Institute, Switzerland)</td>
+  </tr>
+  <tr>
+    <td></td>
     <td>Florian Hartig (University of Regensburg, Germany)</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Colin Averill (ETH, Zurich, Switzerland)</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Stefanie Muff (Norwegian University of Science and Technology, Norway)</td>
   </tr>
 </table>
 
-**Format:** The workshop is centered around two activities: i) Expert lectures, followed by hands-on sessions; ii) Collaborative project, in which groups of 3-5 participants perform a novel (Bayesian) analysis, under supervision of an instructor providing a dataset.
+**Format:** The workshop will be conducted in two parts: i) Expert lectures, followed by hands-on sessions will take part in 12th-14th April, 2021; ii) Collaborative project, in which groups of 3-5 participants perform a novel (Bayesian) analysis, under supervision of an instructor providing a dataset will take part in Summer or Fall of 2021
 
 <a href="schedule.html"><b>Tentative schedule</b></a>
 
@@ -35,8 +30,6 @@ In this workshop, we promote transparent and reproducible science and the use of
 <a href="https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/details/2019/004/E/50986943"> Official announcement in the Vorlesungsverzeichnis</a>
 
 **Funding Acknowledgement:** Funding by the UZH Graduate Campus via a GRC Grant is gratefully acknowledged
-
-**Note: Application is closed due to large number of applications for the course.**
 
 <a name="application"> <b> How to apply: </b> </a> 
 The applicant needs to submit the application using the form below and also send an email to phdecology(at)ieu.uzh.ch. We will get in touch to confirm your application. PhD students from the University of Zurich will be given priority.
