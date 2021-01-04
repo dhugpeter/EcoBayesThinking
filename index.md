@@ -1,4 +1,4 @@
-<p> <b> When:</b> 12 to 14 April 02, 2021</p>
+<p> <b> When:</b> 12 to 14 April 2021</p>
 <p> <b> Where:</b> University of Zurich, Irchel campus</p>
 <p> <b> Who:</b> PhD students and postdocs interested in ecology and statistics. The participants should have basic knowledge of R and statistics and a keen interest in Bayesian thinking. </p>
 
