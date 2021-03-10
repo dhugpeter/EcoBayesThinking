@@ -13,10 +13,10 @@
   </tr>
 </table>
 
-**Format:** The workshop will be conducted in two parts: i) Expert lectures, followed by hands-on sessions will take part in 12th-14th April, 2021; ii) Collaborative project, in which groups of 3-5 participants perform a novel (Bayesian) analysis, under supervision of an instructor providing a dataset will take part in Summer or Fall of 2021
+**Format:** The workshop will be conducted in two parts: i) Lectures, followed by hands-on sessions will take part in 12th-14th April, 2021 (Part A); 
+ii) Collaborative project, in which groups of 3-5 participants perform a novel (Bayesian) analysis, under supervision of an instructor providing a dataset will take part in Summer or Fall of 2021 (Part B). Part A will be fully online. Part B will be in a hybrid format – offering both in-person and online instruction- if the situation allows it. In case of active Covid-related restrictions, the format will be online only. 
 
-**Description:**  Both, part A and part B will be in a hybrid format – offering both in-person and online instruction- if the situation allows it. In case of active Covid-related restrictions, the format will be online only.
-
+**Content Description:**  
 Part A of the course gives an introduction into Bayesian statistics and relevant software (Jags/Stan). Participants will learn relevant skills, such as MCMC sampling, how to use Bayesian statistics in linear regression, to implement simple models in JAGS/Stan and to interpret model output. Part A will contain lectures and exercises, and is a suitable preparation of part B of the course.
 About half a day of part A is mandatory to participate in part B. In this part, group projects will be introduced and groups will be formed. Groups are expected to perform some tasks between part A and part B, to ensure the projects can be taken to a more advanced level in part B.
 The goal of part B is to bring together scientists from ecology and statistics, and to give insights into specific applications of Bayesian statistics to ecological questions. Part A will comprise of lectures, toolbox sessions accompanying those lectures, and group work.
