@@ -34,7 +34,5 @@ In this workshop, we promote transparent and reproducible science and the use of
 <a name="application"> <b> How to apply: </b> </a> 
 The applicant needs to submit the application using the form below and also send an email to phdecology(at)ieu.uzh.ch. We will get in touch to confirm your application. PhD students from the University of Zurich will be given priority.
 
-**Cancellation policy:** Cancellation after February 27th will incur a fee of CHF 230. Failure to attend the course without prior cancellation (at least 4 working days before course start) is charged with a fee of CHF 300. All participant cancellations are to be arranged with the coordination office at phdecology(at)ieu.uzh.ch. Incomplete attendance without documented justification will be charged CHF 60 per missed day.
-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKpPMnSTE8eUkQv9MhYIYnAKCPdPPksjUymDfkOeiwYlweSg/viewform?embedded=true" width="640" height="1286" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
